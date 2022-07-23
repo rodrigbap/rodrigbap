@@ -6,5 +6,5 @@ Hi there, meu nome é Rodrigo Baptista!
 - 👯 Gosto muito de usar Git e GitHub
 
 
-Minhas principais aplicações são JavaScript e Java
-Utilizo com excelência para meu desenvolvimento HTML5, CSS3, Botstrap e React
+- Minhas aplicações são Java  e JS
+- HTLM5, CSS3, Botstrap e React
