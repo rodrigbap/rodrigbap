@@ -8,5 +8,5 @@ Olá, meu nome é Rodrigo Baptista!
 
 
 - Minhas aplicações são Java/Js
-- HTLM5, CSS3, Botstrap e React.Js - Iniciando em Flutter
+- HTLM5, CSS3 e Boostrap - Iniciando em Flutter
 - SQL Server e MongoDB
