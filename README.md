@@ -1,10 +1,11 @@
-Hi there, meu nome é Rodrigo Baptista! 
+Olá, meu nome é Rodrigo Baptista! 
 
 
-- 🔭 Estou trabalhando com desenvolvimento e helpdesk
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas
-- 👯 Gosto muito de usar Git e GitHub
+- Estou trabalhando com desenvolvimento e helpdesk.
+- Estudo Análise e Desenvolvimento de Sistemas.
+- Gosto muito de criar com Git e GitHub.
+- Moro em São Paulo, no ABC.
 
 
-- Minhas aplicações são Java  e JS
-- HTLM5, CSS3, Botstrap e React
+- Minhas aplicações são Java/Js
+- HTLM5, CSS3, Botstrap e React.Js - Iniciando em Flutter
