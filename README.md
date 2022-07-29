@@ -1,7 +1,7 @@
 Olá, meu nome é Rodrigo Baptista! 
 
 
-- Estou trabalhando com desenvolvimento e helpdesk.
+- Estou trabalhando com desenvolvimento, service desk e SQL Server.
 - Estudo Análise e Desenvolvimento de Sistemas.
 - Gosto muito de criar com Git e GitHub.
 - Moro em São Paulo, no ABC.
@@ -9,3 +9,4 @@ Olá, meu nome é Rodrigo Baptista!
 
 - Minhas aplicações são Java/Js
 - HTLM5, CSS3, Botstrap e React.Js - Iniciando em Flutter
+- SQL Server e MongoDB
