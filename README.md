@@ -1,6 +1,6 @@
 
-<h1>Hello, World!</h1>
-Meu nome é Rodrigo Baptista!
+
+<h1>Meu nome é Rodrigo Baptista!</h1>
 
 
 - Estou trabalhando em uma startup em São Paulo.
